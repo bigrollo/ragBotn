@@ -1,0 +1,5 @@
+venv
+.env
+main2.py
+marcBot.py
+testBot.py
